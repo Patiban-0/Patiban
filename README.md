@@ -5,8 +5,8 @@
 
 プログラミング初心者なので色々教えてほしいです。
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patiban-0&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ptbnth&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patiban-0&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ptbnth&show_icons=true)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patiban-0&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptbnth&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
