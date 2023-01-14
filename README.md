@@ -1,7 +1,7 @@
 # Patiban
 
 ![](https://komarev.com/ghpvc/?username=Patiban-0)  
-質問や話は[ここで](https://github.com/Ptbnth/Ptbnth/issues/1)お願いします。
+質問や話は[ここで](https://github.com/Ptbnth/Ptbnth.github.io/issues/1)お願いします。
 
 プログラミング初心者なので色々教えてほしいです。
  
