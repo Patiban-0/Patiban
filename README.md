@@ -7,7 +7,7 @@
  
 <div style="text-align:center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptbnth)](https://github.com/Ptbnth/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptbnth&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptbnth)](https://github.com/Ptbnth/github-readme-stats&theme=tokyonight)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptbnth&show_icons=true&theme=tokyonight)
   
 </div>
