@@ -9,5 +9,5 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ptbnth&show_icons=true&theme=tokyonight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptbnth&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptbnth&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ptbnth)](https://github.com/anuraghazra/github-readme-stats)
 </div>
